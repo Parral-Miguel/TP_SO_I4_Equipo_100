@@ -1,1 +1,8 @@
 
+        IEnumerable<Pago> GetPagosByUserId(int userId);
+<<<<<<< HEAD
+        IEnumerable<PagoSinVerificarVM> GetPagosSinVerificar();
+=======
+        IEnumerable<PagoSinVerificarVM> GetPagosSinVerificar(int? obraId);
+>>>>>>> origin/Fumaster
+    }
