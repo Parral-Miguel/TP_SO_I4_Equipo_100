@@ -1,0 +1,9 @@
+Apellido y nombre de los integrantes:
+Cristian Fumacoo
+Franco Acquisto
+Miguel Parral
+
+a) El color de la página en testing es azul
+b) El color de la página en desarrollo es amarillo
+c) El color de la página en master es amarillo
+d) El favicon que quedó en el master es el de beta
