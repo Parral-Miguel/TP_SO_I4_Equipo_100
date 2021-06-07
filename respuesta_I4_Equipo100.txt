@@ -7,3 +7,8 @@ a) El color de la página en testing es azul
 b) El color de la página en desarrollo es amarillo
 c) El color de la página en master es amarillo
 d) El favicon que quedó en el master es el de beta
+e) Beta tuvo problemas realizando el push 
+f) El problema se debió a que hubo un push de otro usuario y se recomendó hacer un pull.
+g) Para resolver el conflicto usamos un push -f pero la consecuencia fue que se borró la linea creada por alfa. Luego cada integrante hizo un pull y añadió sus datos luego de hacer push
+h) Si cada uno de los integrantes usara push -f solo se leerían las lineas añadidas por Gamma
+i) Despues de Alfa, cada integrante haria un pull, añadiria sus datos y haria el push. El último, Gamma, haria git checkout desarrollo para entrar a esa rama y git merge testing para unir las ramas y tomar los datos de index
